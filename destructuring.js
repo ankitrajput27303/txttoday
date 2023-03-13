@@ -25,7 +25,9 @@ const fruits = ['Apple', 'Bananas', 'Mangoes'];
 
 
 // Object Destructuring
+console.log('txt12');
 const laptop = {
+
     model: "HP Pavilion",
     age: "23 days",
     gender: "Male",
